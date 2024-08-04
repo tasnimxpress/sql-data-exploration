@@ -92,9 +92,7 @@ In this project, I leveraged MS SQL Server to analyze global COVID-19 data, focu
     ORDER  BY total_case DESC
     LIMIT  20; 
     ```
-    
-    ![Top infected country.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d774bcbe-f015-4aa5-b102-7b4ccde4ab34/3d585e7a-8639-4b41-b3db-8b10b4fcaf88/Top_infected_country.png)
-    
+        
 - **Top 10 countries with maximum death count per population**
     
     ```sql
