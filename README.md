@@ -1,6 +1,6 @@
 # Analyzing Global COVID-19 Data using SQL
 
-In this project, I leveraged MS SQL Server to analyze global COVID-19 data, focusing on deaths and vaccination statistics. Key tasks included comprehensive data preparation, calculation of vital metrics, and employing advanced SQL techniques for data integration and analysis. The analysis encompassed several critical aspects:
+In this project, I leveraged MySQL  to analyze global COVID-19 data, focusing on deaths and vaccination statistics. Key tasks included comprehensive data preparation, calculation of vital metrics, and employing advanced SQL techniques for data integration and analysis. The analysis encompassed several critical aspects:
 
 ## Action
 
